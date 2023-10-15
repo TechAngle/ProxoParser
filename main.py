@@ -18,7 +18,7 @@ I hope this will help you to find proxies for personal use
 
 class ProxoParser:
     """
-    **Main class of all script**
+    Main class of all script
 
     There are all "magic" of parser
     """
@@ -34,7 +34,7 @@ class ProxoParser:
 
     def create_proxy_dir(self):
         """
-        Creates **directory** *"parsed"* if it not exists
+        Creates directory "parsed" if it not exists
 
         :return: bool
         """
@@ -78,6 +78,13 @@ class ProxoParser:
 if __name__ == "__main__":
     parser = ProxoParser()
     print(Fore.LIGHTYELLOW_EX + "Starting script...")
+
+    if os.name == 'nt':
+        os.system('cls')
+    else:
+        os.system('clear')
+
+    print(ProxoParser().banner())
 
     # Creating directory(or its unnecessary)
     parser.create_proxy_dir()

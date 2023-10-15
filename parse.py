@@ -19,7 +19,7 @@ class Parse:
     @staticmethod
     def formatting(value: str):
         """
-        This function "washing" proxies, because there are often strings like:
+        This function "washing" proxies because there are often strings like:
         "\n                 xxx.xxx.xxx.xxx             \n"
         So it need to be clear
 
