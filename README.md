@@ -36,7 +36,7 @@ python main.py
 If you want to contribute to ProxoParser, feel free to fork the repository and submit a pull request with your enhancements. I welcome any improvements or new features that can make the tool more robust and efficient.
 
 # Author
-### Vladislav (TechAngle)
+### Vladislav
 ##### GitHub: [TechAngle](https://github.com/TechAngle/)
 # Contact
 If you have any questions or need assistance with ProxoParser, you can contact the author via email:
