@@ -33,7 +33,7 @@ python main.py
 5. Once the process is complete, the proxies will be saved to a file in the parsed directory.
 
 # Contributing
-If you want to contribute to ProxoParser, feel free to fork the repository and submit a pull request with your enhancements. We welcome any improvements or new features that can make the tool more robust and efficient.
+If you want to contribute to ProxoParser, feel free to fork the repository and submit a pull request with your enhancements. I welcome any improvements or new features that can make the tool more robust and efficient.
 
 # Author
 ### Vladislav (TechAngle)
