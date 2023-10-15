@@ -2,7 +2,7 @@
 
 ProxoParser is a Python script dedicated to the task of scraping and parsing free proxy information from various websites. It relies on the use of two primary libraries, requests and bs4 (BeautifulSoup), to accomplish its web scraping functionality efficiently.
 
-## Requirements (if venv not working) ⚠️
+## Requirements ⚠️
 
 Make sure you have the following Python libraries installed before using ProxoParser:
 
