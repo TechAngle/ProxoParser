@@ -6,6 +6,7 @@ ProxoParser is a Python script dedicated to the task of scraping and parsing fre
 
 Make sure you have the following Python libraries installed before using ProxoParser:
 
+- Python >= 3.10
 - requests
 - bs4 (BeautifulSoup)
 - colorama
